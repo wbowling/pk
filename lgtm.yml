@@ -1,0 +1,7 @@
+extraction:
+  cpp:
+     prepare:
+        packages: 
+          - libgtk2.0-dev
+          - libpolkit-gobject-1-dev
+          - libpolkit-agent-1-dev
